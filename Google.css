@@ -1,0 +1,80 @@
+#gle{
+	margin-top:89px;
+	height:233px;
+}
+img{
+	padding-top: 109px;
+	height:92px;
+	width:272px;
+	margin-left:39%;
+}
+#BG{
+	height:80%;
+}
+#TB{
+	margin:auto;
+	height:44px;
+	width:584px;
+}
+/*text input styling*/
+#IP{
+	height:34px;
+	width:584px;
+	padding: 0 0 0 0;
+	border-radius:1px;
+}
+/*styling for the two buttons below the text field*/
+#SB{
+	margin:auto;
+	width:272px;
+}
+#GS{
+	margin-top:20px;
+	width:134px;
+	display:inline-block;
+	float:left;
+	box-shadow: none;
+	border-radius: 0px;
+
+}
+}
+#gs {
+	font-size: 12px;
+	height:30px;
+	width:128px;
+	border-radius:0px;
+	white-space: nowrap;
+	font-family: sans-serif;
+	box-shadow: none;
+}
+#IFL{
+	margin-top:20px;
+	width:134px;
+	display:inline-block;
+	float:right;
+}
+#ifl {
+	font-size: 12px;
+	height:30px;
+	width:128px;
+	border-radius:0px;
+	white-space: nowrap;
+	font-family: sans-serif;
+}
+#leftfoot{
+	float:left;
+}
+#rightfoot{
+	float:right;
+}
+.link{
+	display:inline-block;
+}
+.link:hover{
+	text-decoration: underline;
+}
+#footer{
+	height:44px; 
+	clear:both;
+	width:100%;
+}
