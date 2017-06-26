@@ -102,6 +102,7 @@ img{
 }
 
 #IP{
+	text-indent: 17px;
 	font: 14px arial,sans-serif;
 	margin-left:10px;
 	height:40px;
